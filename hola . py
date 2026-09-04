@@ -1,0 +1,3 @@
+# Mi primer programa - hecho por jhon
+nombre = imput ("¿como te llamas? ")
+  print(f"¡Hola {nombre}! Bienvenido a 
